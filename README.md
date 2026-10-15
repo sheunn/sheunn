@@ -1,7 +1,4 @@
-## 🚀 Experience & Education
-
-* **경기대학교 AI컴퓨터공학부 인공지능전공**
-  * GPA: **4.2 / 4.5**
+## Experience & Education
 
 * **미국 실리콘밸리·CES 연수** `2026`
   * CES 2026 참관 및 Google·NVIDIA·Tesla·UC Berkeley·Stanford 방문
