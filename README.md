@@ -1,3 +1,9 @@
+## 🌱 My Contributions
+
+![sheunn's GitHub contribution chart](https://ghchart.rshah.org/00bcd4/sheunn)
+
+---
+
 ## Experience & Education
 
 * **크래프톤 정글(KRAFTON JUNGLE) 웹개발 집중 캠프** `2026.08.03 ~ 2026.08.14`
