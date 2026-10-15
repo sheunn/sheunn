@@ -1,4 +1,4 @@
-## 🌱 My Contributions
+## My Contributions
 
 ![sheunn's GitHub contribution chart](https://ghchart.rshah.org/00bcd4/sheunn)
 
