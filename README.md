@@ -4,7 +4,7 @@
   * Flask 기반 백엔드 API 설계 및 AWS 환경 웹 서비스 배포
 
 * **미국 실리콘밸리·CES 연수** `2026.01.04 ~ 2026.01.13`
-  * CES 2026 참관 및 Google·NVIDIA·Tesla·UC Berkeley·Stanford 방문
+  * CES 2026 참관 및 Google·NVIDIA·UC Berkeley·Stanford 방문
 
 * **CEO 포럼 장학생** `2025.11`
   * CEO 포럼 장학생 선발
@@ -24,7 +24,7 @@
 
 ---
 
-### 📚 Certification
+### Certification
 
 * **SQLD**
 * **ADsP**
@@ -32,7 +32,7 @@
 
 ---
 
-## Tech Skills 🛠️
+## Tech Skills
 
 | Category | Stack |
 | --- | --- |
